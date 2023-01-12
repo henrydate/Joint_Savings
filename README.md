@@ -4,7 +4,7 @@ This Solidity smart contract automates joint savings accounts between two user a
 
 ## Deploying the contract
 
-![Deploying the Contract](Execution_Results/deploying_contracts.png)
+![Deploying the Contract](Execution_Results/deploying_contract.png)
 
 ### Setup Accounts
 
@@ -40,7 +40,7 @@ Launch Remix using the following URL:
 https://remix.ethereum.org/
 ```
 ## Contributors
-> [Email] henrydate1@gmail.com |
+> [email] henrydate1@gmail.com |
 > [GitHub](https://github.com/henrydate) |
 > [LinkedIn](https://www.linkedin.com/in/henry-date-9356351a4/)
 
