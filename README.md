@@ -40,7 +40,7 @@ Launch Remix using the following URL:
 https://remix.ethereum.org/
 ```
 ## Contributors
-> email: Henrydate1@gmail.com |
+> Email: Henrydate1@gmail.com |
 > [GitHub](https://github.com/henrydate) |
 > [LinkedIn](https://www.linkedin.com/in/henry-date-9356351a4/)
 
